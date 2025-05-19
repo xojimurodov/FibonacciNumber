@@ -1,0 +1,14 @@
+C:\Users\xojim\Problems\FibonachiSon\bin\Debug\net9.0\FibonachiSon.exe
+C:\Users\xojim\Problems\FibonachiSon\bin\Debug\net9.0\FibonachiSon.deps.json
+C:\Users\xojim\Problems\FibonachiSon\bin\Debug\net9.0\FibonachiSon.runtimeconfig.json
+C:\Users\xojim\Problems\FibonachiSon\bin\Debug\net9.0\FibonachiSon.dll
+C:\Users\xojim\Problems\FibonachiSon\bin\Debug\net9.0\FibonachiSon.pdb
+C:\Users\xojim\Problems\FibonachiSon\obj\Debug\net9.0\FibonachiSon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xojim\Problems\FibonachiSon\obj\Debug\net9.0\FibonachiSon.AssemblyInfoInputs.cache
+C:\Users\xojim\Problems\FibonachiSon\obj\Debug\net9.0\FibonachiSon.AssemblyInfo.cs
+C:\Users\xojim\Problems\FibonachiSon\obj\Debug\net9.0\FibonachiSon.csproj.CoreCompileInputs.cache
+C:\Users\xojim\Problems\FibonachiSon\obj\Debug\net9.0\FibonachiSon.dll
+C:\Users\xojim\Problems\FibonachiSon\obj\Debug\net9.0\refint\FibonachiSon.dll
+C:\Users\xojim\Problems\FibonachiSon\obj\Debug\net9.0\FibonachiSon.pdb
+C:\Users\xojim\Problems\FibonachiSon\obj\Debug\net9.0\FibonachiSon.genruntimeconfig.cache
+C:\Users\xojim\Problems\FibonachiSon\obj\Debug\net9.0\ref\FibonachiSon.dll
