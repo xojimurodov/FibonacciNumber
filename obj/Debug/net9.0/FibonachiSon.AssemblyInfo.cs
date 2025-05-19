@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FibonachiSon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70fd66d114f18834c077ca60080716701cdaa4fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+078d9959bd03aa90f4ab453d83504ae2b7c37d35")]
 [assembly: System.Reflection.AssemblyProductAttribute("FibonachiSon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FibonachiSon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
